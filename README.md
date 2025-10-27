@@ -11,17 +11,18 @@ Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvend
 No desafio **Spore** eu tive que preparar o ambiente local, fazendo download do código fonte da aplicação, executando as Migrations e criando as variáveis de ambiente.
 Neste processo eu aprendi:
 
-* ✅ Clonar repositórios
-* ✅ Gerar migrações e aplicá-las
-* ✅ Configurar variáveis de ambiente locais
-* ✅ Utilizar o `dotnet user-secrets`
+- ✅ Clonar repositórios
+- ✅ Gerar migrações e aplicá-las
+- ✅ Configurar variáveis de ambiente locais
+- ✅ Utilizar o `dotnet user-secrets`
 
 ## REGRAS DO DESAFIO
-- [ ] Realizar um fork do repositório do desafio
-- [ ] Instalar o .NET 9
-- [ ] Instalar o Visual Studio Code, Visual Studio ou Rider
-- [ ] Configurar as variáveis de ambiente
-- [ ] Criar uma Migration usando Entity Framework
+
+- [x] Realizar um fork do repositório do desafio
+- [x] Instalar o .NET 9
+- [x] Instalar o Visual Studio Code, Visual Studio ou Rider
+- [x] Configurar as variáveis de ambiente
+- [x] Criar uma Migration usando Entity Framework
 - [ ] Gerar o banco de dados
 - [ ] Executar a aplicação
 - [ ] Testar a aplicação
