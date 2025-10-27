@@ -23,9 +23,9 @@ Neste processo eu aprendi:
 - [x] Instalar o Visual Studio Code, Visual Studio ou Rider
 - [x] Configurar as variáveis de ambiente
 - [x] Criar uma Migration usando Entity Framework
-- [ ] Gerar o banco de dados
-- [ ] Executar a aplicação
-- [ ] Testar a aplicação
+- [x] Gerar o banco de dados
+- [x] Executar a aplicação
+- [x] Testar a aplicação
 
 ## Sobre o Caça aos Bugs
 
